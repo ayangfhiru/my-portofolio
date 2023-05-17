@@ -4,7 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#105761'
+        primary: '#105761',
+        secondary: '#64748b',
+      },
+      fontFamily: {
+        'Olswan': ['Oswald', 'sans-serif'],
       }
     },
   },
